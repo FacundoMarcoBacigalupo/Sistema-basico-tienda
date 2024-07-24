@@ -40,8 +40,6 @@ public class SistemaEcommerce {
 	
 	
 	
-
-	
 	//Metodos
 	private static void iniciarSesion(Ecommerce ecommerce) {
 		System.out.println("Ingrese nombre del usuario (Sin espacios): ");

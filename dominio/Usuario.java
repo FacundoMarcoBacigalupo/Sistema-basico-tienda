@@ -11,7 +11,6 @@ public class Usuario {
 		this.saldoDeUsuario = saldoDeUsuario;
 	}
 
-
 	
 	//Metodos
 	public String getNombre() {
